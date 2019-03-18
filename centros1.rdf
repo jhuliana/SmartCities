@@ -1,0 +1,1108 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://centrodesalud.org/ontology#"
+    xmlns:j.1="http://purl.org/dc/terms/"
+    xmlns:Dbo="http://dbpedia.org/ontology/"
+    xmlns:Onto="http://centrosalud.org/data/"
+    xmlns:Dct="http://purl.org/dc/terms"
+    xmlns:Rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <Rdfs:Organization rdf:about="http://www.w3.org/2000/01/rdf-schema#Hospitl_Buenos_dias">
+    <j.0:recordDataWaste>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Waste1">
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1294">
+            <j.0:cantBlock>4</j.0:cantBlock>
+            <j.0:cantBlock>736</j.0:cantBlock>
+            <j.0:cantBlock>0</j.0:cantBlock>
+            <j.0:cantBlock>1905</j.0:cantBlock>
+            <j.0:detail>Detalle en el bloque de los Residuos especiales Recolectados</j.0:detail>
+            <j.0:code>K1294</j.0:code>
+          </rdf:Description>
+        </j.0:block>
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1298">
+            <j.0:cantBlock>Si</j.0:cantBlock>
+            <j.0:cantBlock>No</j.0:cantBlock>
+            <j.0:detail>Detalle de la realizacion de an�lisis para verificar la gestion de residuos peligrosos entregados por el establecimiento de acuerdo a la normativa sanitaria ambiental</j.0:detail>
+            <j.0:code>K1298</j.0:code>
+          </rdf:Description>
+        </j.0:block>
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1293">
+            <j.0:detail>Detalle en el bloque de los Residuos corto punzantes Recolectados</j.0:detail>
+            <j.0:cantBlock>69</j.0:cantBlock>
+            <j.0:cantBlock>0</j.0:cantBlock>
+            <j.0:cantBlock>104</j.0:cantBlock>
+            <j.0:cantBlock>892</j.0:cantBlock>
+            <j.0:cantBlock>551</j.0:cantBlock>
+            <j.0:cantBlock>1890</j.0:cantBlock>
+            <j.0:cantBlock>529</j.0:cantBlock>
+            <j.0:cantBlock>36</j.0:cantBlock>
+            <j.0:cantBlock>8970</j.0:cantBlock>
+            <j.0:cantBlock>139</j.0:cantBlock>
+            <j.0:code>K1293</j.0:code>
+          </rdf:Description>
+        </j.0:block>
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1292">
+            <j.0:cantBlock>1690</j.0:cantBlock>
+            <j.0:cantBlock>3795</j.0:cantBlock>
+            <j.0:cantBlock>0</j.0:cantBlock>
+            <j.0:cantBlock>89174</j.0:cantBlock>
+            <j.0:cantBlock>75</j.0:cantBlock>
+            <j.0:detail>Detalle en el bloque de los Residuos infecciosos recolectados</j.0:detail>
+            <j.0:cantBlock>9409</j.0:cantBlock>
+            <j.0:cantBlock>3566</j.0:cantBlock>
+            <j.0:cantBlock>3227</j.0:cantBlock>
+            <j.0:code>K1292</j.0:code>
+            <j.0:cantBlock>96</j.0:cantBlock>
+            <j.0:cantBlock>529</j.0:cantBlock>
+            <j.0:cantBlock>329</j.0:cantBlock>
+            <j.0:cantBlock>1500</j.0:cantBlock>
+          </rdf:Description>
+        </j.0:block>
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1303">
+            <j.0:cantBlock>111</j.0:cantBlock>
+            <j.0:cantBlock>96</j.0:cantBlock>
+            <j.0:cantBlock>0</j.0:cantBlock>
+            <j.0:detail>Detalle de la cantidad de residuos peligrosos incinerados</j.0:detail>
+            <j.0:code>K1303</j.0:code>
+          </rdf:Description>
+        </j.0:block>
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1291">
+            <j.0:cantBlock>468</j.0:cantBlock>
+            <j.0:detail>En el bloque se detalla la Recoleccion y Control de -  Residuos Peligrosos Uso INEC</j.0:detail>
+            <j.0:cantBlock>0</j.0:cantBlock>
+            <j.0:cantBlock>96</j.0:cantBlock>
+            <j.0:cantBlock>4458</j.0:cantBlock>
+            <j.0:code>K1291</j.0:code>
+            <j.0:cantBlock>5760</j.0:cantBlock>
+            <j.0:cantBlock>9409</j.0:cantBlock>
+            <j.0:cantBlock>1794</j.0:cantBlock>
+            <j.0:cantBlock>7590</j.0:cantBlock>
+            <j.0:cantBlock>1058</j.0:cantBlock>
+            <j.0:cantBlock>98880</j.0:cantBlock>
+            <j.0:cantBlock>1573</j.0:cantBlock>
+            <j.0:cantBlock>111</j.0:cantBlock>
+            <j.0:cantBlock>3778</j.0:cantBlock>
+          </rdf:Description>
+        </j.0:block>
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1302">
+            <j.0:cantBlock>Si</j.0:cantBlock>
+            <j.0:cantBlock>No</j.0:cantBlock>
+            <j.0:detail>Reporte de si los residuos peligrosos fueron incinerados</j.0:detail>
+            <j.0:code>K1302</j.0:code>
+          </rdf:Description>
+        </j.0:block>
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1290">
+            <j.0:cantBlock>No</j.0:cantBlock>
+            <j.0:cantBlock>Si</j.0:cantBlock>
+            <j.0:detail>En el bloque se detalla si se dio o no  la Recoleccion y Control de -  Residuos Peligrosos Uso INEC</j.0:detail>
+            <j.0:code>K1290</j.0:code>
+          </rdf:Description>
+        </j.0:block>
+        <j.0:fecha>2013</j.0:fecha>
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1301">
+            <j.0:cantBlock>1500</j.0:cantBlock>
+            <j.0:cantBlock>4458</j.0:cantBlock>
+            <j.0:cantBlock>3778</j.0:cantBlock>
+            <j.0:cantBlock>0</j.0:cantBlock>
+            <j.0:detail>Detalle de la cantidad de residuos peligrosos dispuestos en celdas</j.0:detail>
+            <j.0:code>K1301</j.0:code>
+          </rdf:Description>
+        </j.0:block>
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1286">
+            <j.0:cantBlock>No</j.0:cantBlock>
+            <j.0:cantBlock>Si</j.0:cantBlock>
+            <j.0:detail>En el bloque se detalla si se dio o no la Recoleccion y Control de - Residuos Peligrosos entregados al municipio para su disposicion final</j.0:detail>
+            <j.0:code>K1286</j.0:code>
+          </rdf:Description>
+        </j.0:block>
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1300">
+            <j.0:cantBlock>Si</j.0:cantBlock>
+            <j.0:cantBlock>No</j.0:cantBlock>
+            <j.0:detail>Reporte de si los residuos peligrosos fueron dispuestos en celdas</j.0:detail>
+            <j.0:code>K1300</j.0:code>
+          </rdf:Description>
+        </j.0:block>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/residuos-peligrosos-en-establecimientos-de-salud-inec</j.0:fuente>
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1297">
+            <j.0:cantBlock>Si</j.0:cantBlock>
+            <j.0:cantBlock>No</j.0:cantBlock>
+            <j.0:detail>En el bloque se reporta informacion sobre la gestion dada a los residuos peligrosos de los establecimientos de salud</j.0:detail>
+            <j.0:code>K1297</j.0:code>
+          </rdf:Description>
+        </j.0:block>
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1288">
+            <j.0:cantBlock>0</j.0:cantBlock>
+            <j.0:detail>En el bloque se detalla la Recoleccion y Control de -  e Residuos Peligrosos entregados a una entidad diferente al  municipio para su disposicion final</j.0:detail>
+            <j.0:cantBlock>No</j.0:cantBlock>
+            <j.0:detail>En el bloque se detalla si se dio o no la Recoleccion y Control de -  Residuos Peligrosos entregados a una entidad diferente al municipio para su disposicion final</j.0:detail>
+            <j.0:code>K1288</j.0:code>
+          </rdf:Description>
+        </j.0:block>
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1296">
+            <j.0:cantBlock>Si</j.0:cantBlock>
+            <j.0:cantBlock>No</j.0:cantBlock>
+            <j.0:detail>Detalle de la tarifa diferenciada de acuerdo al tipo de gestion dada a los residuos peligrosos del establecimiento de salud</j.0:detail>
+            <j.0:code>K1296</j.0:code>
+          </rdf:Description>
+        </j.0:block>
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1287">
+            <j.0:cantBlock>96</j.0:cantBlock>
+            <j.0:cantBlock>5760</j.0:cantBlock>
+            <j.0:cantBlock>9409</j.0:cantBlock>
+            <j.0:cantBlock>0</j.0:cantBlock>
+            <j.0:cantBlock>98880</j.0:cantBlock>
+            <j.0:code>K1287</j.0:code>
+            <j.0:cantBlock>3778</j.0:cantBlock>
+            <j.0:cantBlock>1058</j.0:cantBlock>
+            <j.0:cantBlock>468</j.0:cantBlock>
+            <j.0:cantBlock>1573</j.0:cantBlock>
+            <j.0:cantBlock>7590</j.0:cantBlock>
+            <j.0:detail>En el bloque se detalla la Recoleccion y Control de -   Residuos Peligrosos entregados al municipio para su disposicion final</j.0:detail>
+            <j.0:cantBlock>111</j.0:cantBlock>
+            <j.0:cantBlock>4458</j.0:cantBlock>
+            <j.0:cantBlock>1794</j.0:cantBlock>
+          </rdf:Description>
+        </j.0:block>
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1295">
+            <j.0:cantBlock>111</j.0:cantBlock>
+            <j.0:cantBlock>1058</j.0:cantBlock>
+            <j.0:cantBlock>1794</j.0:cantBlock>
+            <j.0:cantBlock>4458</j.0:cantBlock>
+            <j.0:cantBlock>468</j.0:cantBlock>
+            <j.0:detail>Detalle en el bloque de los Residuos Peligrosos Recolectados Uso INEC</j.0:detail>
+            <j.0:cantBlock>0</j.0:cantBlock>
+            <j.0:cantBlock>98880</j.0:cantBlock>
+            <j.0:cantBlock>96</j.0:cantBlock>
+            <j.0:code>K1295</j.0:code>
+            <j.0:cantBlock>1573</j.0:cantBlock>
+            <j.0:cantBlock>7590</j.0:cantBlock>
+            <j.0:cantBlock>3778</j.0:cantBlock>
+            <j.0:cantBlock>9409</j.0:cantBlock>
+          </rdf:Description>
+        </j.0:block>
+        <j.0:block>
+          <rdf:Description rdf:about="http://centrosalud.org/data/K1299">
+            <j.0:cantBlock>2</j.0:cantBlock>
+            <j.0:cantBlock>3</j.0:cantBlock>
+            <j.0:cantBlock>Si</j.0:cantBlock>
+            <j.0:cantBlock>No</j.0:cantBlock>
+            <j.0:detail>Detalle de los residuos peligrosos recolectados para el uso del INEC</j.0:detail>
+            <j.0:code>K1299</j.0:code>
+          </rdf:Description>
+        </j.0:block>
+      </rdf:Description>
+    </j.0:recordDataWaste>
+    <j.0:recordData>
+      <rdf:Description rdf:about="http://centrosalud.org/data/registro1">
+        <Rdfs:medicalSpecialty>
+          <rdf:Description rdf:about="http://centrosalud.org/data/oftamologo">
+            <j.0:cantSpecialty>0</j.0:cantSpecialty>
+            <j.0:cantSpecialty>2</j.0:cantSpecialty>
+            <j.0:cantSpecialty>3</j.0:cantSpecialty>
+            <j.0:cantSpecialty>1</j.0:cantSpecialty>
+            <Rdfs:name>oftamologo</Rdfs:name>
+          </rdf:Description>
+        </Rdfs:medicalSpecialty>
+        <Rdfs:medicalSpecialty>
+          <rdf:Description rdf:about="http://centrosalud.org/data/internista">
+            <j.0:cantSpecialty>0</j.0:cantSpecialty>
+            <j.0:cantSpecialty>1</j.0:cantSpecialty>
+            <j.0:cantSpecialty>9</j.0:cantSpecialty>
+            <j.0:cantSpecialty>12</j.0:cantSpecialty>
+            <j.0:cantSpecialty>5</j.0:cantSpecialty>
+            <j.0:cantSpecialty>2</j.0:cantSpecialty>
+            <Rdfs:name>internista</Rdfs:name>
+          </rdf:Description>
+        </Rdfs:medicalSpecialty>
+        <Rdfs:medicalSpecialty>
+          <rdf:Description rdf:about="http://centrosalud.org/data/geriatra">
+            <j.0:cantSpecialty>1</j.0:cantSpecialty>
+            <j.0:cantSpecialty>0</j.0:cantSpecialty>
+            <Rdfs:name>geriatra</Rdfs:name>
+          </rdf:Description>
+        </Rdfs:medicalSpecialty>
+        <Rdfs:medicalSpecialty>
+          <rdf:Description rdf:about="http://centrosalud.org/data/gastroenterologo">
+            <j.0:cantSpecialty>0</j.0:cantSpecialty>
+            <j.0:cantSpecialty>1</j.0:cantSpecialty>
+            <j.0:cantSpecialty>4</j.0:cantSpecialty>
+            <j.0:cantSpecialty>3</j.0:cantSpecialty>
+            <j.0:cantSpecialty>2</j.0:cantSpecialty>
+            <Rdfs:name>gastroenterologo</Rdfs:name>
+          </rdf:Description>
+        </Rdfs:medicalSpecialty>
+        <j.0:fecha>2013</j.0:fecha>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/recursos-y-actividades-de-salud-inec</j.0:fuente>
+        <Rdfs:medicalSpecialty>
+          <rdf:Description rdf:about="http://centrosalud.org/data/oncologo">
+            <j.0:cantSpecialty>0</j.0:cantSpecialty>
+            <j.0:cantSpecialty>1</j.0:cantSpecialty>
+            <Rdfs:name>oncologo</Rdfs:name>
+          </rdf:Description>
+        </Rdfs:medicalSpecialty>
+        <Rdfs:medicalSpecialty>
+          <rdf:Description rdf:about="http://centrosalud.org/data/traumatologo">
+            <j.0:cantSpecialty>0</j.0:cantSpecialty>
+            <j.0:cantSpecialty>2</j.0:cantSpecialty>
+            <j.0:cantSpecialty>6</j.0:cantSpecialty>
+            <j.0:cantSpecialty>4</j.0:cantSpecialty>
+            <j.0:cantSpecialty>7</j.0:cantSpecialty>
+            <j.0:cantSpecialty>3</j.0:cantSpecialty>
+            <Rdfs:name>traumatologo</Rdfs:name>
+          </rdf:Description>
+        </Rdfs:medicalSpecialty>
+        <Rdfs:medicalSpecialty>
+          <rdf:Description rdf:about="http://centrosalud.org/data/cirujanos_general">
+            <j.0:cantSpecialty>2</j.0:cantSpecialty>
+            <j.0:cantSpecialty>0</j.0:cantSpecialty>
+            <j.0:cantSpecialty>1</j.0:cantSpecialty>
+            <j.0:cantSpecialty>6</j.0:cantSpecialty>
+            <j.0:cantSpecialty>8</j.0:cantSpecialty>
+            <j.0:cantSpecialty>4</j.0:cantSpecialty>
+            <j.0:cantSpecialty>9</j.0:cantSpecialty>
+            <Rdfs:name>cirujanos_general</Rdfs:name>
+          </rdf:Description>
+        </Rdfs:medicalSpecialty>
+        <Rdfs:medicalSpecialty>
+          <rdf:Description rdf:about="http://centrosalud.org/data/urologo">
+            <j.0:cantSpecialty>0</j.0:cantSpecialty>
+            <j.0:cantSpecialty>2</j.0:cantSpecialty>
+            <j.0:cantSpecialty>4</j.0:cantSpecialty>
+            <j.0:cantSpecialty>1</j.0:cantSpecialty>
+            <j.0:cantSpecialty>3</j.0:cantSpecialty>
+            <Rdfs:name>urologo</Rdfs:name>
+          </rdf:Description>
+        </Rdfs:medicalSpecialty>
+        <Rdfs:medicalSpecialty>
+          <rdf:Description rdf:about="http://centrosalud.org/data/otorrinolaringologo">
+            <j.0:cantSpecialty>0</j.0:cantSpecialty>
+            <j.0:cantSpecialty>1</j.0:cantSpecialty>
+            <j.0:cantSpecialty>4</j.0:cantSpecialty>
+            <j.0:cantSpecialty>5</j.0:cantSpecialty>
+            <j.0:cantSpecialty>2</j.0:cantSpecialty>
+            <Rdfs:name>otorrinolaringologo</Rdfs:name>
+          </rdf:Description>
+        </Rdfs:medicalSpecialty>
+        <Rdfs:medicalSpecialty>
+          <rdf:Description rdf:about="http://centrosalud.org/data/cirujano_plastico">
+            <j.0:cantSpecialty>0</j.0:cantSpecialty>
+            <j.0:cantSpecialty>3</j.0:cantSpecialty>
+            <j.0:cantSpecialty>2</j.0:cantSpecialty>
+            <j.0:cantSpecialty>1</j.0:cantSpecialty>
+            <Rdfs:name>cirujano_plastico</Rdfs:name>
+          </rdf:Description>
+        </Rdfs:medicalSpecialty>
+        <Rdfs:medicalSpecialty>
+          <rdf:Description rdf:about="http://centrosalud.org/data/psiquiatra">
+            <j.0:cantSpecialty>6</j.0:cantSpecialty>
+            <j.0:cantSpecialty>2</j.0:cantSpecialty>
+            <j.0:cantSpecialty>0</j.0:cantSpecialty>
+            <j.0:cantSpecialty>1</j.0:cantSpecialty>
+            <Rdfs:name>psiquiatra</Rdfs:name>
+          </rdf:Description>
+        </Rdfs:medicalSpecialty>
+        <Rdfs:medicalSpecialty>
+          <rdf:Description rdf:about="http://centrosalud.org/data/cardiologo">
+            <j.0:cantSpecialty>0</j.0:cantSpecialty>
+            <j.0:cantSpecialty>2</j.0:cantSpecialty>
+            <j.0:cantSpecialty>5</j.0:cantSpecialty>
+            <j.0:cantSpecialty>3</j.0:cantSpecialty>
+            <j.0:cantSpecialty>7</j.0:cantSpecialty>
+            <j.0:cantSpecialty>1</j.0:cantSpecialty>
+            <Rdfs:name>cardiologo</Rdfs:name>
+          </rdf:Description>
+        </Rdfs:medicalSpecialty>
+        <Rdfs:medicalSpecialty>
+          <rdf:Description rdf:about="http://centrosalud.org/data/anestesiologo">
+            <j.0:cantSpecialty>0</j.0:cantSpecialty>
+            <j.0:cantSpecialty>1</j.0:cantSpecialty>
+            <j.0:cantSpecialty>2</j.0:cantSpecialty>
+            <j.0:cantSpecialty>18</j.0:cantSpecialty>
+            <j.0:cantSpecialty>14</j.0:cantSpecialty>
+            <j.0:cantSpecialty>5</j.0:cantSpecialty>
+            <j.0:cantSpecialty>3</j.0:cantSpecialty>
+            <j.0:cantSpecialty>6</j.0:cantSpecialty>
+            <Rdfs:name>anestesiologo</Rdfs:name>
+          </rdf:Description>
+        </Rdfs:medicalSpecialty>
+        <Rdfs:medicalSpecialty>
+          <rdf:Description rdf:about="http://centrosalud.org/data/hematologo">
+            <j.0:cantSpecialty>0</j.0:cantSpecialty>
+            <j.0:cantSpecialty>1</j.0:cantSpecialty>
+            <j.0:cantSpecialty>2</j.0:cantSpecialty>
+            <Rdfs:name>hematologo</Rdfs:name>
+          </rdf:Description>
+        </Rdfs:medicalSpecialty>
+        <Rdfs:medicalSpecialty>
+          <rdf:Description rdf:about="http://centrosalud.org/data/neurologo">
+            <j.0:cantSpecialty>0</j.0:cantSpecialty>
+            <j.0:cantSpecialty>3</j.0:cantSpecialty>
+            <j.0:cantSpecialty>7</j.0:cantSpecialty>
+            <j.0:cantSpecialty>1</j.0:cantSpecialty>
+            <j.0:cantSpecialty>4</j.0:cantSpecialty>
+            <Rdfs:name>neurologo</Rdfs:name>
+          </rdf:Description>
+        </Rdfs:medicalSpecialty>
+        <Rdfs:medicalSpecialty>
+          <rdf:Description rdf:about="http://centrosalud.org/data/medico_general">
+            <j.0:cantSpecialty>6</j.0:cantSpecialty>
+            <j.0:cantSpecialty>4</j.0:cantSpecialty>
+            <j.0:cantSpecialty>8</j.0:cantSpecialty>
+            <j.0:cantSpecialty>2</j.0:cantSpecialty>
+            <j.0:cantSpecialty>25</j.0:cantSpecialty>
+            <j.0:cantSpecialty>43</j.0:cantSpecialty>
+            <j.0:cantSpecialty>1</j.0:cantSpecialty>
+            <j.0:cantSpecialty>0</j.0:cantSpecialty>
+            <Rdfs:name>medico_general</Rdfs:name>
+          </rdf:Description>
+        </Rdfs:medicalSpecialty>
+      </rdf:Description>
+    </j.0:recordData>
+    <j.1:subject>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Clinica_General">
+        <Dbo:type>Clinicas_Generales_sin_especialidad</Dbo:type>
+      </rdf:Description>
+    </j.1:subject>
+    <j.0:organism>
+      <Rdfs:Organization rdf:about="http://centrosalud.org/data/Privados_con_Fines_de_Lucro">
+        <j.0:sector>Sector_Privado_con_fines_de_lucro</j.0:sector>
+      </Rdfs:Organization>
+    </j.0:organism>
+    <Dbo:parish>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Cuenca,Parroquia">
+        <Dbo:isPartOf>
+          <rdf:Description rdf:about="http://centrosalud.org/data/Cuenca,Canton">
+            <Dbo:province>
+              <rdf:Description rdf:about="http://dbpedia.org/ontology/Azuay,Provincia">
+                <Dbo:country rdf:resource="http://dbpedia.org/ontology/Ecuador"/>
+              </rdf:Description>
+            </Dbo:province>
+          </rdf:Description>
+        </Dbo:isPartOf>
+        <j.0:area>Urbana</j.0:area>
+      </rdf:Description>
+    </Dbo:parish>
+    <Rdfs:name>Hospitl_Buenos_dias</Rdfs:name>
+    <j.0:id>3</j.0:id>
+  </Rdfs:Organization>
+  <Rdfs:Organization rdf:about="http://www.w3.org/2000/01/rdf-schema#Hospital_sigue">
+    <j.0:recordDataWaste>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Waste5">
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1295"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1302"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1288"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1299"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1292"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1293"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1300"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1290"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1291"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1287"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1303"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1296"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1301"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1286"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1297"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1294"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/residuos-peligrosos-en-establecimientos-de-salud-inec</j.0:fuente>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1298"/>
+      </rdf:Description>
+    </j.0:recordDataWaste>
+    <j.0:recordData>
+      <rdf:Description rdf:about="http://centrosalud.org/data/registro5">
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/otorrinolaringologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oftamologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/neurologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/hematologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujano_plastico"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oncologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/traumatologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/geriatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/urologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujanos_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/medico_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/gastroenterologo"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/anestesiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/psiquiatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/internista"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cardiologo"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/recursos-y-actividades-de-salud-inec</j.0:fuente>
+      </rdf:Description>
+    </j.0:recordData>
+    <j.1:subject>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Hospital_General">
+        <Dbo:type>Agudo</Dbo:type>
+      </rdf:Description>
+    </j.1:subject>
+    <j.0:organism>
+      <Rdfs:Organization rdf:about="http://centrosalud.org/data/Ministerio_de_Defensa_Nacional">
+        <j.0:sector>Sector_Publico</j.0:sector>
+      </Rdfs:Organization>
+    </j.0:organism>
+    <Dbo:parish rdf:resource="http://centrosalud.org/data/Cuenca,Parroquia"/>
+    <Rdfs:name>Hospital_sigue</Rdfs:name>
+    <j.0:id>8</j.0:id>
+  </Rdfs:Organization>
+  <Rdfs:Organization rdf:about="http://www.w3.org/2000/01/rdf-schema#Hospitl_del_dia">
+    <j.0:recordDataWaste>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Waste0">
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1295"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1287"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1293"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1290"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/residuos-peligrosos-en-establecimientos-de-salud-inec</j.0:fuente>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1298"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1296"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1288"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1291"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1286"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1302"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1299"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1300"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1297"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1294"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1292"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1303"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1301"/>
+      </rdf:Description>
+    </j.0:recordDataWaste>
+    <j.0:recordData>
+      <rdf:Description rdf:about="http://centrosalud.org/data/registro0">
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/urologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/traumatologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujanos_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/neurologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujano_plastico"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/medico_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oftamologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/hematologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oncologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/otorrinolaringologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/psiquiatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/internista"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/geriatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/gastroenterologo"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cardiologo"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/recursos-y-actividades-de-salud-inec</j.0:fuente>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/anestesiologo"/>
+      </rdf:Description>
+    </j.0:recordData>
+    <j.1:subject rdf:resource="http://centrosalud.org/data/Clinica_General"/>
+    <j.0:organism rdf:resource="http://centrosalud.org/data/Privados_con_Fines_de_Lucro"/>
+    <Dbo:parish rdf:resource="http://centrosalud.org/data/Cuenca,Parroquia"/>
+    <Rdfs:name>Hospitl_del_dia</Rdfs:name>
+    <j.0:id>2</j.0:id>
+  </Rdfs:Organization>
+  <Rdfs:Organization rdf:about="http://www.w3.org/2000/01/rdf-schema#Hospital_sigsi">
+    <j.0:recordDataWaste>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Waste11">
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1300"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1302"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1295"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1293"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1299"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1290"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1303"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1301"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1296"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/residuos-peligrosos-en-establecimientos-de-salud-inec</j.0:fuente>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1291"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1286"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1287"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1294"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1292"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1297"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1298"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1288"/>
+      </rdf:Description>
+    </j.0:recordDataWaste>
+    <j.0:recordData>
+      <rdf:Description rdf:about="http://centrosalud.org/data/registro11">
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/recursos-y-actividades-de-salud-inec</j.0:fuente>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/anestesiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/internista"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oncologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/hematologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/psiquiatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/traumatologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/otorrinolaringologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/geriatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cardiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/medico_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujano_plastico"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/neurologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oftamologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujanos_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/gastroenterologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/urologo"/>
+      </rdf:Description>
+    </j.0:recordData>
+    <j.1:subject>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Hospital_Basico">
+        <Dbo:type>Sin_Tipo</Dbo:type>
+      </rdf:Description>
+    </j.1:subject>
+    <j.0:organism>
+      <Rdfs:Organization rdf:about="http://centrosalud.org/data/Ministerio_de_Salud_Publica">
+        <j.0:sector>Sector_Publico</j.0:sector>
+      </Rdfs:Organization>
+    </j.0:organism>
+    <Dbo:parish>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Sigsig,Parroquia">
+        <Dbo:isPartOf>
+          <rdf:Description rdf:about="http://centrosalud.org/data/Sigsig,Canton">
+            <Dbo:province rdf:resource="http://dbpedia.org/ontology/Azuay,Provincia"/>
+          </rdf:Description>
+        </Dbo:isPartOf>
+        <j.0:area>Urbana</j.0:area>
+      </rdf:Description>
+    </Dbo:parish>
+    <Rdfs:name>Hospital_sigsi</Rdfs:name>
+    <j.0:id>15</j.0:id>
+  </Rdfs:Organization>
+  <Rdfs:Organization rdf:about="http://www.w3.org/2000/01/rdf-schema#Hospital_azuay">
+    <j.0:recordDataWaste>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Waste8">
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1300"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1288"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1303"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1296"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1295"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1302"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1287"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1290"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1297"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1298"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1292"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1291"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1301"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1286"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1299"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1293"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1294"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/residuos-peligrosos-en-establecimientos-de-salud-inec</j.0:fuente>
+      </rdf:Description>
+    </j.0:recordDataWaste>
+    <j.0:recordData>
+      <rdf:Description rdf:about="http://centrosalud.org/data/registro8">
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/recursos-y-actividades-de-salud-inec</j.0:fuente>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/medico_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/otorrinolaringologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oftamologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/gastroenterologo"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujano_plastico"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oncologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/traumatologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/hematologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/urologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/geriatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/neurologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujanos_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/anestesiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/psiquiatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/internista"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cardiologo"/>
+      </rdf:Description>
+    </j.0:recordData>
+    <j.1:subject rdf:resource="http://centrosalud.org/data/Hospital_Basico"/>
+    <j.0:organism rdf:resource="http://centrosalud.org/data/Ministerio_de_Salud_Publica"/>
+    <Dbo:parish>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Giron,Parroquia">
+        <Dbo:isPartOf>
+          <rdf:Description rdf:about="http://centrosalud.org/data/Giron,Canton">
+            <Dbo:province rdf:resource="http://dbpedia.org/ontology/Azuay,Provincia"/>
+          </rdf:Description>
+        </Dbo:isPartOf>
+        <j.0:area>Urbana</j.0:area>
+      </rdf:Description>
+    </Dbo:parish>
+    <Rdfs:name>Hospital_azuay</Rdfs:name>
+    <j.0:id>12</j.0:id>
+  </Rdfs:Organization>
+  <Rdfs:Organization rdf:about="http://www.w3.org/2000/01/rdf-schema#Hospital_santa_isabel">
+    <j.0:recordDataWaste>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Waste10">
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1287"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1290"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1298"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1288"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1296"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1302"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1300"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1291"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1286"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1294"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1299"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1292"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1297"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1303"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1301"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1295"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/residuos-peligrosos-en-establecimientos-de-salud-inec</j.0:fuente>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1293"/>
+      </rdf:Description>
+    </j.0:recordDataWaste>
+    <j.0:recordData>
+      <rdf:Description rdf:about="http://centrosalud.org/data/registro10">
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/geriatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/gastroenterologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/medico_general"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/recursos-y-actividades-de-salud-inec</j.0:fuente>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujano_plastico"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujanos_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/otorrinolaringologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/neurologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/psiquiatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/urologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cardiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/traumatologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/anestesiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oftamologo"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oncologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/internista"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/hematologo"/>
+      </rdf:Description>
+    </j.0:recordData>
+    <j.1:subject rdf:resource="http://centrosalud.org/data/Hospital_Basico"/>
+    <j.0:organism rdf:resource="http://centrosalud.org/data/Ministerio_de_Salud_Publica"/>
+    <Dbo:parish>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Santa Isabel,Parroquia">
+        <Dbo:isPartOf>
+          <rdf:Description rdf:about="http://centrosalud.org/data/Santa Isabel,Canton">
+            <Dbo:province rdf:resource="http://dbpedia.org/ontology/Azuay,Provincia"/>
+          </rdf:Description>
+        </Dbo:isPartOf>
+        <j.0:area>Urbana</j.0:area>
+      </rdf:Description>
+    </Dbo:parish>
+    <Rdfs:name>Hospital_santa_isabel</Rdfs:name>
+    <j.0:id>14</j.0:id>
+  </Rdfs:Organization>
+  <Rdfs:Organization rdf:about="http://www.w3.org/2000/01/rdf-schema#Hospital_gualaceo">
+    <j.0:recordDataWaste>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Waste9">
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1296"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1300"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1286"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1302"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1291"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1301"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1287"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1290"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1293"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1299"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1303"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1292"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1298"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/residuos-peligrosos-en-establecimientos-de-salud-inec</j.0:fuente>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1295"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1288"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1294"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1297"/>
+      </rdf:Description>
+    </j.0:recordDataWaste>
+    <j.0:recordData>
+      <rdf:Description rdf:about="http://centrosalud.org/data/registro9">
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/internista"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/gastroenterologo"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/recursos-y-actividades-de-salud-inec</j.0:fuente>
+        <j.0:fecha>2013</j.0:fecha>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/anestesiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/traumatologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/urologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/neurologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujano_plastico"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/hematologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/medico_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujanos_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/otorrinolaringologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oftamologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/psiquiatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cardiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oncologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/geriatra"/>
+      </rdf:Description>
+    </j.0:recordData>
+    <j.1:subject rdf:resource="http://centrosalud.org/data/Hospital_Basico"/>
+    <j.0:organism rdf:resource="http://centrosalud.org/data/Ministerio_de_Salud_Publica"/>
+    <Dbo:parish>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Gualaceo,Parroquia">
+        <Dbo:isPartOf>
+          <rdf:Description rdf:about="http://centrosalud.org/data/Gualaceo,Canton">
+            <Dbo:province rdf:resource="http://dbpedia.org/ontology/Azuay,Provincia"/>
+          </rdf:Description>
+        </Dbo:isPartOf>
+        <j.0:area>Urbana</j.0:area>
+      </rdf:Description>
+    </Dbo:parish>
+    <Rdfs:name>Hospital_gualaceo</Rdfs:name>
+    <j.0:id>13</j.0:id>
+  </Rdfs:Organization>
+  <Rdfs:Organization rdf:about="http://www.w3.org/2000/01/rdf-schema#Hospital_curate">
+    <j.0:recordDataWaste>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Waste6">
+        <j.0:fecha>2013</j.0:fecha>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1303"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1296"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1295"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1302"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1287"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1290"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1297"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1298"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1292"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1291"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1301"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1286"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1299"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/residuos-peligrosos-en-establecimientos-de-salud-inec</j.0:fuente>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1293"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1294"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1300"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1288"/>
+      </rdf:Description>
+    </j.0:recordDataWaste>
+    <j.0:recordData>
+      <rdf:Description rdf:about="http://centrosalud.org/data/registro6">
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/medico_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/otorrinolaringologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oftamologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/gastroenterologo"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oncologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujano_plastico"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/hematologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/traumatologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/urologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/geriatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujanos_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/neurologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/anestesiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/psiquiatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/internista"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/recursos-y-actividades-de-salud-inec</j.0:fuente>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cardiologo"/>
+      </rdf:Description>
+    </j.0:recordData>
+    <j.1:subject rdf:resource="http://centrosalud.org/data/Hospital_Basico"/>
+    <j.0:organism rdf:resource="http://centrosalud.org/data/Ministerio_de_Salud_Publica"/>
+    <Dbo:parish rdf:resource="http://centrosalud.org/data/Cuenca,Parroquia"/>
+    <Rdfs:name>Hospital_curate</Rdfs:name>
+    <j.0:id>10</j.0:id>
+  </Rdfs:Organization>
+  <Rdfs:Organization rdf:about="http://www.w3.org/2000/01/rdf-schema#Hospital_bien">
+    <j.0:recordDataWaste>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Waste2">
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1298"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1302"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1295"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1303"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1296"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1300"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1293"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1301"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1294"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/residuos-peligrosos-en-establecimientos-de-salud-inec</j.0:fuente>
+        <j.0:fecha>2013</j.0:fecha>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1291"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1287"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1292"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1288"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1299"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1290"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1286"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1297"/>
+      </rdf:Description>
+    </j.0:recordDataWaste>
+    <j.0:recordData>
+      <rdf:Description rdf:about="http://centrosalud.org/data/registro2">
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oftamologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/anestesiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/traumatologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/neurologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/hematologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/psiquiatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/internista"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/medico_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cardiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/otorrinolaringologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/geriatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oncologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujano_plastico"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujanos_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/urologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/gastroenterologo"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/recursos-y-actividades-de-salud-inec</j.0:fuente>
+      </rdf:Description>
+    </j.0:recordData>
+    <j.1:subject rdf:resource="http://centrosalud.org/data/Clinica_General"/>
+    <j.0:organism rdf:resource="http://centrosalud.org/data/Privados_con_Fines_de_Lucro"/>
+    <Dbo:parish rdf:resource="http://centrosalud.org/data/Cuenca,Parroquia"/>
+    <Rdfs:name>Hospital_bien</Rdfs:name>
+    <j.0:id>4</j.0:id>
+  </Rdfs:Organization>
+  <Rdfs:Organization rdf:about="http://www.w3.org/2000/01/rdf-schema#Hospital_del_buen_vivir">
+    <j.0:recordDataWaste>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Waste7">
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1301"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1295"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1299"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/residuos-peligrosos-en-establecimientos-de-salud-inec</j.0:fuente>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1290"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1300"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1297"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1288"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1292"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1303"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1291"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1302"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1287"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1286"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1293"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1294"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1298"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1296"/>
+      </rdf:Description>
+    </j.0:recordDataWaste>
+    <j.0:recordData>
+      <rdf:Description rdf:about="http://centrosalud.org/data/registro7">
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/internista"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oncologo"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/recursos-y-actividades-de-salud-inec</j.0:fuente>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/gastroenterologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/neurologo"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujano_plastico"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/anestesiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/psiquiatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/traumatologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/hematologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cardiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/urologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/geriatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujanos_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/medico_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/otorrinolaringologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oftamologo"/>
+      </rdf:Description>
+    </j.0:recordData>
+    <j.1:subject>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Hospital_Psiquiatrico_y_Sanatorio_de_Alcoholicos">
+        <Dbo:type>Cronico</Dbo:type>
+      </rdf:Description>
+    </j.1:subject>
+    <j.0:organism>
+      <Rdfs:Organization rdf:about="http://centrosalud.org/data/Privados_sin_Fines_de_Lucro">
+        <j.0:sector>Sector_Privado_sin_fines_de_lucro</j.0:sector>
+      </Rdfs:Organization>
+    </j.0:organism>
+    <Dbo:parish rdf:resource="http://centrosalud.org/data/Cuenca,Parroquia"/>
+    <Rdfs:name>Hospital_del_buen_vivir</Rdfs:name>
+    <j.0:id>11</j.0:id>
+  </Rdfs:Organization>
+  <Rdfs:Organization rdf:about="http://www.w3.org/2000/01/rdf-schema#Hospital_salud">
+    <j.0:recordDataWaste>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Waste3">
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1299"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1296"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1293"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1294"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1298"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1291"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1302"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1292"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1303"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1300"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1290"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1301"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1286"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1297"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/residuos-peligrosos-en-establecimientos-de-salud-inec</j.0:fuente>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1287"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1295"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1288"/>
+      </rdf:Description>
+    </j.0:recordDataWaste>
+    <j.0:recordData>
+      <rdf:Description rdf:about="http://centrosalud.org/data/registro3">
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujano_plastico"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/psiquiatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/urologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujanos_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/medico_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cardiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/otorrinolaringologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/gastroenterologo"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/recursos-y-actividades-de-salud-inec</j.0:fuente>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/traumatologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oncologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/hematologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/internista"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oftamologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/geriatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/anestesiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/neurologo"/>
+      </rdf:Description>
+    </j.0:recordData>
+    <j.1:subject rdf:resource="http://centrosalud.org/data/Hospital_General"/>
+    <j.0:organism>
+      <Rdfs:Organization rdf:about="http://centrosalud.org/data/Ministerio_de_Salud_P�blica">
+        <j.0:sector>Sector_Publico</j.0:sector>
+      </Rdfs:Organization>
+    </j.0:organism>
+    <Dbo:parish rdf:resource="http://centrosalud.org/data/Cuenca,Parroquia"/>
+    <Rdfs:name>Hospital_salud</Rdfs:name>
+    <j.0:id>6</j.0:id>
+  </Rdfs:Organization>
+  <Rdfs:Organization rdf:about="http://www.w3.org/2000/01/rdf-schema#Hospital_paulte">
+    <j.0:recordDataWaste>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Waste12">
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1300"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1303"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/residuos-peligrosos-en-establecimientos-de-salud-inec</j.0:fuente>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1293"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1296"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1301"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1294"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1291"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1292"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1287"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1288"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1299"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1290"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1286"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1297"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1302"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1295"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1298"/>
+      </rdf:Description>
+    </j.0:recordDataWaste>
+    <j.0:recordData>
+      <rdf:Description rdf:about="http://centrosalud.org/data/registro12">
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/psiquiatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujanos_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oncologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/otorrinolaringologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cardiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/gastroenterologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/medico_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/urologo"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/recursos-y-actividades-de-salud-inec</j.0:fuente>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/neurologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oftamologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/internista"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/traumatologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/hematologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/geriatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/anestesiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujano_plastico"/>
+        <j.0:fecha>2013</j.0:fecha>
+      </rdf:Description>
+    </j.0:recordData>
+    <j.1:subject rdf:resource="http://centrosalud.org/data/Hospital_Basico"/>
+    <j.0:organism rdf:resource="http://centrosalud.org/data/Ministerio_de_Salud_Publica"/>
+    <Dbo:parish>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Paute,Parroquia">
+        <Dbo:isPartOf>
+          <rdf:Description rdf:about="http://centrosalud.org/data/Paute,Canton">
+            <Dbo:province rdf:resource="http://dbpedia.org/ontology/Azuay,Provincia"/>
+          </rdf:Description>
+        </Dbo:isPartOf>
+        <j.0:area>Urbana</j.0:area>
+      </rdf:Description>
+    </Dbo:parish>
+    <Rdfs:name>Hospital_paulte</Rdfs:name>
+    <j.0:id>16</j.0:id>
+  </Rdfs:Organization>
+  <Rdfs:Organization rdf:about="http://www.w3.org/2000/01/rdf-schema#Hospital_aqu�">
+    <j.0:recordDataWaste>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Waste4">
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1298"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1302"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1295"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1303"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1296"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1300"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1293"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1301"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1294"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1291"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1287"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/residuos-peligrosos-en-establecimientos-de-salud-inec</j.0:fuente>
+        <j.0:fecha>2013</j.0:fecha>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1292"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1288"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1299"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1290"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1286"/>
+        <j.0:block rdf:resource="http://centrosalud.org/data/K1297"/>
+      </rdf:Description>
+    </j.0:recordDataWaste>
+    <j.0:recordData>
+      <rdf:Description rdf:about="http://centrosalud.org/data/registro4">
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/anestesiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujano_plastico"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/psiquiatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/traumatologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/geriatra"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/urologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cirujanos_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/cardiologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/gastroenterologo"/>
+        <j.0:fecha>2013</j.0:fecha>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/otorrinolaringologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oftamologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/neurologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/internista"/>
+        <j.0:fuente>http://catalogo.datosabiertos.gob.ec/dataset/recursos-y-actividades-de-salud-inec</j.0:fuente>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/oncologo"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/medico_general"/>
+        <Rdfs:medicalSpecialty rdf:resource="http://centrosalud.org/data/hematologo"/>
+      </rdf:Description>
+    </j.0:recordData>
+    <j.1:subject>
+      <rdf:Description rdf:about="http://centrosalud.org/data/Hospital_de_Especialidades">
+        <Dbo:type>Agudo</Dbo:type>
+      </rdf:Description>
+    </j.1:subject>
+    <j.0:organism>
+      <Rdfs:Organization rdf:about="http://centrosalud.org/data/Instituto_Ecuatoriano_de_Seguridad_Social">
+        <j.0:sector>Sector_Publico</j.0:sector>
+      </Rdfs:Organization>
+    </j.0:organism>
+    <Dbo:parish rdf:resource="http://centrosalud.org/data/Cuenca,Parroquia"/>
+    <Rdfs:name>Hospital_aqu�</Rdfs:name>
+    <j.0:id>7</j.0:id>
+  </Rdfs:Organization>
+</rdf:RDF>

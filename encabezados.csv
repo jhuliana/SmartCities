@@ -1,0 +1,3 @@
+Anio;Nombre;Estable;Prov_ubi;Cant_ubi;Parr_ubi;Pais;Clase;Tipo;Entidad;Sector;total_med;medico_general;cirujanos_general;cirujanos_plasticos;internista;anestesiologos;cardiologos;neurologos;traumatologos;psiquiatras;oftamologos;otorrinolaringologos;hematologos;gastroenterologos;geriatras;oncologos;urologos;fuente;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Anio;Nombre;Estable;Prov_ubi;Cant_ubi;Parr_ubi;Clase;Tipo;Entidad;Sector;residuos;recolección_y_control_municipio;detalle_recoleccion;recolección_y_control_no_municipio;detalle_recoleccion;k1290;k1291;k1292;k1293;k1294;k1295;k1296;k1297;k1298;k1299;k1300;k1301;residuos_incinerados;cantidad_residuos_incinerados;area;fuente

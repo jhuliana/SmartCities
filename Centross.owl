@@ -1,0 +1,115 @@
+<rdf:RDF
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dbo="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://centrodesalud.org/ontology"/>
+  <owl:Class rdf:about="http://centrodesalud.org/ontology#Canton">
+    <owl:disjointWith>
+      <owl:Class rdf:about="http://centrodesalud.org/ontology#Parish"/>
+    </owl:disjointWith>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://dbpedia.org/ontology/PopulatedPlace"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://centrodesalud.org/ontology#Department"/>
+  <owl:Class rdf:about="http://centrodesalud.org/ontology#Block"/>
+  <owl:Class rdf:about="http://centrodesalud.org/ontology#Parish">
+    <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.w3.org/2000/01/rdf-schema#MedicalOrganization">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://www.w3.org/2000/01/rdf-schema#Organization"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://centrodesalud.org/ontology#RecordData"/>
+  <owl:Class rdf:about="http://dbpedia.org/ontology/Country"/>
+  <owl:Class rdf:about="http://centrodesalud.org/ontology#Category"/>
+  <owl:Class rdf:about="http://dbpedia.org/ontology/Province"/>
+  <owl:ObjectProperty rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Organization"/>
+    <rdfs:domain rdf:resource="http://www.w3.org/2000/01/rdf-schema#MedicalOrganization"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://centrodesalud.org/ontology#recordDataWaste">
+    <rdfs:domain rdf:resource="http://www.w3.org/2000/01/rdf-schema#MedicalOrganization"/>
+    <rdfs:range rdf:resource="http://centrodesalud.org/ontology#RecordData"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/isPartOf">
+    <rdfs:domain rdf:resource="http://centrodesalud.org/ontology#Parish"/>
+    <rdfs:range rdf:resource="http://centrodesalud.org/ontology#Canton"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://purl.org/dc/terms/subject">
+    <rdfs:domain rdf:resource="http://www.w3.org/2000/01/rdf-schema#MedicalOrganization"/>
+    <rdfs:range rdf:resource="http://centrodesalud.org/ontology#Category"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/country">
+    <rdfs:domain rdf:resource="http://dbpedia.org/ontology/Province"/>
+    <rdfs:range rdf:resource="http://dbpedia.org/ontology/Country"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://centrodesalud.org/ontology#organism">
+    <rdfs:domain rdf:resource="http://www.w3.org/2000/01/rdf-schema#MedicalOrganization"/>
+    <rdfs:range rdf:resource="http://centrodesalud.org/ontology#Department"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://centrodesalud.org/ontology#recordData">
+    <rdfs:domain rdf:resource="http://www.w3.org/2000/01/rdf-schema#MedicalOrganization"/>
+    <rdfs:range rdf:resource="http://centrodesalud.org/ontology#RecordData"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/parish">
+    <rdfs:domain rdf:resource="http://www.w3.org/2000/01/rdf-schema#MedicalOrganization"/>
+    <rdfs:range rdf:resource="http://centrodesalud.org/ontology#Parish"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/province">
+    <rdfs:range rdf:resource="http://dbpedia.org/ontology/Province"/>
+    <rdfs:domain rdf:resource="http://centrodesalud.org/ontology#Canton"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://centrodesalud.org/ontology#block">
+    <rdfs:domain rdf:resource="http://centrodesalud.org/ontology#RecordData"/>
+    <rdfs:range rdf:resource="http://centrodesalud.org/ontology#Block"/>
+  </owl:ObjectProperty>
+  <owl:DatatypeProperty rdf:about="http://centrodesalud.org/ontology#cantSpecialty">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    <rdfs:domain rdf:resource="http://centrodesalud.org/ontology#RecordData"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://centrodesalud.org/ontology#id">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    <rdfs:domain rdf:resource="http://www.w3.org/2000/01/rdf-schema#MedicalOrganization"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://centrodesalud.org/ontology#fuente">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://centrodesalud.org/ontology#RecordData"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://centrodesalud.org/ontology#fecha">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://centrodesalud.org/ontology#RecordData"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://centrodesalud.org/ontology#cantBlock">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    <rdfs:domain rdf:resource="http://centrodesalud.org/ontology#Block"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://centrodesalud.org/ontology#detail">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://centrodesalud.org/ontology#Block"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://dbpedia.org/ontology/type">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://centrodesalud.org/ontology#Category"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://centrodesalud.org/ontology#area">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://centrodesalud.org/ontology#Parish"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://centrodesalud.org/ontology#sector">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://centrodesalud.org/ontology#Department"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://centrodesalud.org/ontology#specialty">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://centrodesalud.org/ontology#RecordData"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://centrodesalud.org/ontology#code">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://centrodesalud.org/ontology#Block"/>
+  </owl:DatatypeProperty>
+</rdf:RDF>
