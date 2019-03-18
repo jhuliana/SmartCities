@@ -346,4 +346,4 @@ La aplicación le permite al usuario buscar los centros de salud por sector.
 ![centroSalud2](https://user-images.githubusercontent.com/19150432/54553553-70493c00-4980-11e9-95c0-04ff60e24c46.jpeg)
 
 
-##Documentación: https://docs.google.com/document/d/1kZXbzwlVej4Kqz0wC_yG3gi83frKl4lefJbS5-AB0jw/edit?usp=sharing
+## Documentación: https://docs.google.com/document/d/1kZXbzwlVej4Kqz0wC_yG3gi83frKl4lefJbS5-AB0jw/edit?usp=sharing
