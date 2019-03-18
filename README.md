@@ -29,9 +29,7 @@
 
 ### Tripletas de Jena
 Para la generación de las tripletas se uso la librería Jena con el lenguaje de programación JAVA; para lo cual se creo clases referentes a los centros de salud las cuales se detallan a continuación con sus respectivos atributos.
-* **Bloque.java**
-    * String codigo;
-    * String descripcion;
+
 * **CentroSalud.java**
     * String id ;
     * String nombCentro;
@@ -57,11 +55,6 @@ Para la generación de las tripletas se uso la librería Jena con el lenguaje de
     * String residuos;
     * String bloqueNombre;
   
-* **Especialidad.java**
-
-    * String nombre;
-    * int cantidad;
- 
 
 
 ### Lectura  del modelo ontológico 
